@@ -4,6 +4,6 @@
 <h2><%= "New feature build and deployed using Jenkins" %></h2>
 <h2><%= "now I have added this new feature!!!" %></h2>
 <h2><%= "Finally here after changing the conf file and giving permission to the manager!!!" %></h2>
-<h2><%= "new change" %></h2>
+<h2><%= "new " %></h2>
 </body>
 </html>
